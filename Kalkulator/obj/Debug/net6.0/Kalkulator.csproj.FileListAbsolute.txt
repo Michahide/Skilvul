@@ -1,0 +1,15 @@
+C:\Users\mervi\OneDrive\Dokumen\GitHub\Skilvul\Kalkulator\bin\Debug\net6.0\Kalkulator.exe
+C:\Users\mervi\OneDrive\Dokumen\GitHub\Skilvul\Kalkulator\bin\Debug\net6.0\Kalkulator.deps.json
+C:\Users\mervi\OneDrive\Dokumen\GitHub\Skilvul\Kalkulator\bin\Debug\net6.0\Kalkulator.runtimeconfig.json
+C:\Users\mervi\OneDrive\Dokumen\GitHub\Skilvul\Kalkulator\bin\Debug\net6.0\Kalkulator.dll
+C:\Users\mervi\OneDrive\Dokumen\GitHub\Skilvul\Kalkulator\bin\Debug\net6.0\Kalkulator.pdb
+C:\Users\mervi\OneDrive\Dokumen\GitHub\Skilvul\Kalkulator\obj\Debug\net6.0\Kalkulator.csproj.AssemblyReference.cache
+C:\Users\mervi\OneDrive\Dokumen\GitHub\Skilvul\Kalkulator\obj\Debug\net6.0\Kalkulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mervi\OneDrive\Dokumen\GitHub\Skilvul\Kalkulator\obj\Debug\net6.0\Kalkulator.AssemblyInfoInputs.cache
+C:\Users\mervi\OneDrive\Dokumen\GitHub\Skilvul\Kalkulator\obj\Debug\net6.0\Kalkulator.AssemblyInfo.cs
+C:\Users\mervi\OneDrive\Dokumen\GitHub\Skilvul\Kalkulator\obj\Debug\net6.0\Kalkulator.csproj.CoreCompileInputs.cache
+C:\Users\mervi\OneDrive\Dokumen\GitHub\Skilvul\Kalkulator\obj\Debug\net6.0\Kalkulator.dll
+C:\Users\mervi\OneDrive\Dokumen\GitHub\Skilvul\Kalkulator\obj\Debug\net6.0\refint\Kalkulator.dll
+C:\Users\mervi\OneDrive\Dokumen\GitHub\Skilvul\Kalkulator\obj\Debug\net6.0\Kalkulator.pdb
+C:\Users\mervi\OneDrive\Dokumen\GitHub\Skilvul\Kalkulator\obj\Debug\net6.0\Kalkulator.genruntimeconfig.cache
+C:\Users\mervi\OneDrive\Dokumen\GitHub\Skilvul\Kalkulator\obj\Debug\net6.0\ref\Kalkulator.dll
